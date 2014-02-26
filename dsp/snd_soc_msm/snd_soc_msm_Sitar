@@ -3310,7 +3310,7 @@ SectionModifier
 EndSection
 
 SectionModifier
-	Name "Capture MusicLine ProtraitCam"
+	Name "Capture MusicLine PortraitCam"
 
 	EnableSequence
 		'MultiMedia1 Mixer SLIM_0_TX':1:1
@@ -3697,7 +3697,7 @@ SectionModifier
 	EndSequence
 	CapturePCM  0
 	PlaybackPCM  0
-EndSectio
+EndSection
 
 SectionModifier
 	Name "Play MusicSpeaker ANC Headset"
@@ -3998,7 +3998,7 @@ SectionModifier
 EndSection
 
 SectionModifier
-	Name "Play MusicLine ProtraitCam"
+	Name "Play MusicLine PortraitCam"
 
 	EnableSequence
 		'SLIMBUS_0_RX Audio Mixer MultiMedia1':1:1
