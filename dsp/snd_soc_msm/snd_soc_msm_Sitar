@@ -3697,7 +3697,7 @@ SectionModifier
 	EndSequence
 	CapturePCM  0
 	PlaybackPCM  0
-EndSectio
+EndSection
 
 SectionModifier
 	Name "Play MusicSpeaker ANC Headset"
