@@ -57,11 +57,11 @@ SectionVerb
 	Name "HiFiVoice Speaker"
 
 	EnableSequence
-		'MI2S_RX Audio Mixer MultiMedia1':1:1
+		'MI2S_RX_Voice Mixer CSVoice':1:1
 	EndSequence
 
 	DisableSequence
-		'MI2S_RX Audio Mixer MultiMedia1':1:0
+		'MI2S_RX_Voice Mixer CSVoice':1:0
 	EndSequence
 	CapturePCM  0
 	PlaybackPCM  0
