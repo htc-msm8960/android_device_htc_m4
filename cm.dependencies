@@ -1,7 +1,9 @@
 [
   {
-    "repository": "android_kernel_htc_m7",
-    "target_path": "kernel/htc/m7"
+    "remote": "github",
+    "repository": "h8rift/android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "revision": "add-m4"
   },
   {
     "repository": "android_device_htc_msm8960-common",
